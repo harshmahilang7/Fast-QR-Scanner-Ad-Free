@@ -1,0 +1,6 @@
+{
+  "name": "Fast QR Scanner – Ad Free",
+  "description": "A blazing fast, ad-free QR code scanner and generator with instant camera recognition, photo scanning, and quick history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

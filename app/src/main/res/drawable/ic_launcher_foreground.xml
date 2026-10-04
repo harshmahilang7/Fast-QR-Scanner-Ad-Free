@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Top-Left Corner Bracket (Google Blue) -->
+    <path
+        android:pathData="M 33,40 L 33,35 C 33,33.5 34.5,32 36,32 L 41,32"
+        android:strokeColor="#4285F4"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Top-Right Corner Bracket (Google Red) -->
+    <path
+        android:pathData="M 67,32 L 72,32 C 73.5,32 75,33.5 75,35 L 75,40"
+        android:strokeColor="#EA4335"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-Left Corner Bracket (Google Green) -->
+    <path
+        android:pathData="M 33,68 L 33,73 C 33,74.5 34.5,76 36,76 L 41,76"
+        android:strokeColor="#34A853"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-Right Corner Bracket (Google Yellow) -->
+    <path
+        android:pathData="M 67,76 L 72,76 C 73.5,76 75,74.5 75,73 L 75,68"
+        android:strokeColor="#FBBC05"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- QR Code Pattern - Top-Left Module -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 38,37 h 9 v 9 h -9 Z M 40,39 v 5 h 5 v -5 Z M 41.5,40.5 h 2 v 2 h -2 Z" />
+
+    <!-- QR Code Pattern - Top-Right Module -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 61,37 h 9 v 9 h -9 Z M 63,39 v 5 h 5 v -5 Z M 64.5,40.5 h 2 v 2 h -2 Z" />
+
+    <!-- QR Code Pattern - Bottom-Left Module -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 38,60 h 9 v 9 h -9 Z M 40,62 v 5 h 5 v -5 Z M 41.5,63.5 h 2 v 2 h -2 Z" />
+
+    <!-- Inner Data Dots -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 52,38 h 4 v 4 h -4 Z M 52,46 h 4 v 4 h -4 Z M 52,54 h 4 v 4 h -4 Z M 52,62 h 4 v 4 h -4 Z M 62,52 h 4 v 4 h -4 Z M 66,58 h 4 v 4 h -4 Z M 40,51 h 4 v 4 h -4 Z M 62,64 h 5 v 5 h -5 Z" />
+
+    <!-- Google Stitch Cyan Scanning Laser Beam with Soft Dot Ends -->
+    <path
+        android:pathData="M 29,54 L 79,54"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M 54,54 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+
+</vector>
